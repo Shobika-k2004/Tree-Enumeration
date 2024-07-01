@@ -33,4 +33,4 @@ This project aims to provide an automated solution for tree enumeration and gree
 2. Upload a satellite image using the provided interface.
 3. View the predicted tree count, processed image, and green cover percentage.
 
-## Example
+
